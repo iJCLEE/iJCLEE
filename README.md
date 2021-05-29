@@ -27,5 +27,5 @@ ________________________________________________________________________________
 - iPhone 5, iOS 10.3.3 (H3lix - Semi-Untethered) - >Another iPhone 5<
 - iPhone 4, iOS 7.1.2 (Modified version of Pangu - Untethered by Unknown source)
 - iPhone 4S, iOS 9.3.5 (Phoenix - Semi-Untethered) 
-- iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - Untethered Pangu - 2021)
+- iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - "Outdated" Untethered Pangu - 2021)
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
