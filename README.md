@@ -19,6 +19,7 @@ ________________________________________________________________________________
 - iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 _____________________________________________________________________________________________________________________________
 - 📴 My current testing devices_>
+- iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)
 - iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)
 - iPhone 6+, iOS 8.1 (TaiG - Untethered)
 - iPhone 5S, iOS 10.1.1 (Yalu - Semi-Untethered)
