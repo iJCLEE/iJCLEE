@@ -7,9 +7,18 @@ ________________________________________________________________________________
 - 📫 How to reach me_> twitter @iJCLEE | Instagram_> @jclee1992 >
                        Feel free to follow & message me, If you need any help in iOS/Android/Software/Repair...
 _____________________________________________________________________________________________________________________________
-- 🎞 My current hobbies are_> VideoGames & OnlineGames (since 2005) | ITF Taekwondo (2004-2008) | Nunchaku (since 2008) | Budo Taido (2008-2012) | iOS Jailbreaking (since 2009) | 
-                              Android Rooting/CustomRom (since 2011) | iDevice and Android device Software & Hardware Repair (since 2013) |
-                              Playing card throwing (since 2013) | Dance (since ****) | Beginner of Beatboxing (since 2021) | 
+- 🎞 My current hobbies are_> 
+- VideoGames & OnlineGames (since 2005)
+- ITF Taekwondo (2004-2008)
+- Nunchaku (since 2008) 
+- Budo Taido (2008-2012)
+- iOS Jailbreaking (since 2009)
+- Android Rooting/CustomRom (since 2011)
+- iDevice and Android device Software & Hardware Repair (since 2013)
+- Playing card throwing (since 2013)
+- Dance (since ****)
+- Beginner of Beatboxing (since 2021)
+- Whipping (coming soon...)
 _____________________________________________________________________________________________________________________________
 - 📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)
