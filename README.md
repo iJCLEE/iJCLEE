@@ -3,7 +3,8 @@ ________________________________________________________________________________
 - 👀 I’m interested in_>
 - Martial Arts
 - Arts
-- Photoshoppings
+- Photoshopping
+- Shopping
 - Music
 - Exercise
 - Videogames
