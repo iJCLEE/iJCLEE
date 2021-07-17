@@ -14,8 +14,8 @@ ________________________________________________________________________________
 - 📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)
-- iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
+- iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
 - iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 _____________________________________________________________________________________________________________________________
