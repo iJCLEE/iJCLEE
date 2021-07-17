@@ -1,11 +1,29 @@
 - 👋 Hello, I’m_> iJCLEE
 _____________________________________________________________________________________________________________________________
-- 👀 I’m interested in_> iOS coding | Security Researching | iOS Exploits | iOS Bugs etc...
+- 👀 I’m interested in_>
+- Martial Arts
+- Arts
+- Photoshoppings
+- Music
+- Exercise
+- Videogames
+- Social media
+- iOS coding
+- Security Researching 
+- iOS Exploits
+- iOS Bugs
+- and so on...
 _____________________________________________________________________________________________________________________________
-- 🌱 I’m currently slowly learning_> iOS coding | Security Researching | iOS Exploits | iOS Bugs etc...
+- 🌱 I’m currently slowly learning_> 
+- iOS coding
+- iOS Security Researching
+- iOS Exploits
+- Finding iOS Bugs etc...
 _____________________________________________________________________________________________________________________________
-- 📫 How to reach me_> twitter @iJCLEE | Instagram_> @jclee1992 >
-                       Feel free to follow & message me, If you need any help in iOS/Android/Software/Repair...
+- 📫 How to reach me_>
+- twitter @iJCLEE
+- Instagram @jclee1992
+-> Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
 - 🎞 My current hobbies are_> 
 - VideoGames & OnlineGames (since 2005)
