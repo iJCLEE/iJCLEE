@@ -46,10 +46,10 @@ ________________________________________________________________________________
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
-- iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 _____________________________________________________________________________________________________________________________
 - 📴 My current testing devices_>
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)
+- iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)
 - iPhone 6+, iOS 8.1 (TaiG - Untethered)
 - iPhone 5S, iOS 10.1.1 (Yalu - Semi-Untethered)
