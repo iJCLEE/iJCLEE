@@ -37,7 +37,7 @@ ________________________________________________________________________________
 - iDevice and Android device Software & Hardware Repair (since 2013)
 - Playing card throwing (since 2013)
 - Dance (since ****)
-- Beginner of Beatboxing (since 2021)
+- Beginner of Beatboxing (since June of 2021)
 - Whipping (coming soon...)
 _____________________________________________________________________________________________________________________________
 - 📱 My current main devices_> 
