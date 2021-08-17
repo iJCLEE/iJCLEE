@@ -22,8 +22,9 @@ ________________________________________________________________________________
 - Finding iOS Bugs etc...
 _____________________________________________________________________________________________________________________________
 - 📫 How to reach me_>
-- Twitter | @iJCLEE |
-- Instagram | @jclee1992 |
+- Twitter | https://twitter.com/ijclee |
+- Instagram | https://www.instagram.com/jclee1992/ |
+- TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
 -> Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
 - 🎞 My current hobbies are_> 
