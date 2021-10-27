@@ -24,7 +24,7 @@ ________________________________________________________________________________
 - iOS Exploits (paused)
 - Finding iOS Bugs etc... (paused
 _____________________________________________________________________________________________________________________________
-- 📫 How to reach me_>
+📫 How to reach me_>
 - Twitter | https://twitter.com/ijclee |
 - Instagram | https://www.instagram.com/jclee1992/ |
 - TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
