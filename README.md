@@ -19,10 +19,10 @@ ________________________________________________________________________________
 - Freestyle Rap
 - Sing
 - Robotic dance
-- iOS coding (paused)
-- iOS Security Researching (paused)
-- iOS Exploits (paused)
-- Finding iOS Bugs etc... (paused
+- iOS coding
+- iOS Security Researching
+- iOS Exploits
+- Finding iOS Bugs etc...
 _____________________________________________________________________________________________________________________________
 📫 How to reach me_>
 - Twitter | https://twitter.com/ijclee |
