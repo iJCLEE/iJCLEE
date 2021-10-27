@@ -15,11 +15,14 @@ ________________________________________________________________________________
 - iOS Bugs
 - and so on...
 _____________________________________________________________________________________________________________________________
-- 🌱 I’m currently slowly learning_> 
-- iOS coding
-- iOS Security Researching
-- iOS Exploits
-- Finding iOS Bugs etc...
+- 🌱 I’m currently slowly learning_>
+- Freestyle Rap
+- Sing
+- Robotic dance
+- iOS coding (paused)
+- iOS Security Researching (paused)
+- iOS Exploits (paused)
+- Finding iOS Bugs etc... (paused
 _____________________________________________________________________________________________________________________________
 - 📫 How to reach me_>
 - Twitter | https://twitter.com/ijclee |
@@ -38,7 +41,10 @@ ________________________________________________________________________________
 - Playing card throwing (since 2013)
 - Dance (since ****)
 - Beginner of Beatboxing (since June of 2021)
-- Whipping (coming soon...)
+- Whipping (since August of 2021)
+- Freestyle rap (coming soon...)
+- Sing and vocal (coming soon...)
+- Robotic dance (coming soon...)
 _____________________________________________________________________________________________________________________________
 - 📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)
@@ -47,6 +53,7 @@ ________________________________________________________________________________
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
+- iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)
 _____________________________________________________________________________________________________________________________
 - 📴 My current testing devices_>
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)
@@ -61,3 +68,9 @@ ________________________________________________________________________________
 - iPhone 4S, iOS 9.3.5 (Phoenix - Semi-Untethered) 
 - iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - "Outdated" Untethered Pangu - 2021)
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
+_____________________________________________________________________________________________________________________________
+- 🎮 Current most played videogames_>
+- League of Legends
+- Minecraft
+- Oldschool Runescape
+_____________________________________________________________________________________________________________________________
