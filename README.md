@@ -1,6 +1,6 @@
-- 👋 Hello, I’m_> JCLEE
+👋 Hello, I’m_> JCLEE
 _____________________________________________________________________________________________________________________________
-- 👀 I’m interested in_>
+👀 I’m interested in_>
 - Martial Arts
 - Arts
 - Photoshopping
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - iOS Bugs
 - and so on...
 _____________________________________________________________________________________________________________________________
-- 🌱 I’m currently slowly learning_>
+🌱 I’m currently slowly learning_>
 - Freestyle Rap
 - Sing
 - Robotic dance
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 - TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
 - > Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
-- 🎞 My current hobbies are_> 
+🎞 My current hobbies are_> 
 - VideoGames & OnlineGames (since 2005)
 - ITF Taekwondo (2004-2008)
 - Nunchaku (since 2008) 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 - Sing and vocal (coming soon...)
 - Robotic dance (coming soon...)
 _____________________________________________________________________________________________________________________________
-- 📱 My current main devices_> 
+📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)
 _____________________________________________________________________________________________________________________________
-- 📴 My current testing devices_>
+📴 My current testing devices_>
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)
 - iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 - iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - "Outdated" Untethered Pangu - 2021)
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
 _____________________________________________________________________________________________________________________________
-- 🎮 Current most played videogames_>
+🎮 Current most played videogames_>
 - League of Legends
 - Minecraft
 - Oldschool Runescape
