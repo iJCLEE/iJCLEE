@@ -70,7 +70,7 @@ ________________________________________________________________________________
 - iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - "Outdated" Untethered Pangu - 2021)
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
 _____________________________________________________________________________________________________________________________
-🎮 Current most played videogames_>
+🎮 Current most played videogames / Onlinegames_>
 - League of Legends
 - Minecraft
 - Oldschool Runescape
