@@ -30,26 +30,30 @@ ________________________________________________________________________________
 - TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
 > Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
-🎞 My current hobbies are_> 
+🎞 My current hobbies & work are_> 
 - VideoGames & OnlineGames (since 2005)
 - ITF Taekwondo (2004-2008)
 - Nunchaku (since 2008) 
 - Budo Taido (2008-2012)
+- Work as employee (since 2008)
 - iOS Jailbreaking (since 2009)
 - Android Rooting/CustomRom (since 2011)
+- Uhions member > Employee rights co-op & supporter (since 2011)
 - iDevice and Android device Software & Hardware Repair (since 2013)
 - Playing card throwing (since 2013)
 - Dance (since ****)
+- Worked as employer at iROOM - iPhone refurbish, re-sell, accessories sell, business & customer service (2017-2020)
 - Beginner of Beatboxing (since June of 2021)
 - Whipping (since August of 2021)
 - Freestyle rap (coming soon...)
 - Sing and vocal (coming soon...)
-- Robotic dance (coming soon...)
+- Robotic dance (coming someday...)
 _____________________________________________________________________________________________________________________________
 📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)
+- iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
@@ -71,7 +75,9 @@ ________________________________________________________________________________
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
 _____________________________________________________________________________________________________________________________
 🎮 Current most played videogames / Onlinegames_>
+- Valheim
 - League of Legends
+- Stardew Valley
 - Minecraft
 - Oldschool Runescape
 _____________________________________________________________________________________________________________________________
