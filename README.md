@@ -38,7 +38,7 @@ ________________________________________________________________________________
 - Work as employee (since 2008)
 - iOS Jailbreaking (since 2009)
 - Android Rooting/CustomRom (since 2011)
-- Uhions member > Employee rights co-op & supporter (since 2011)
+- Unions member > Employee rights co-op & supporter (since 2011)
 - iDevice and Android device Software & Hardware Repair (since 2013)
 - Playing card throwing (since 2013)
 - Dance (since ****)
