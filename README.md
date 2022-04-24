@@ -4,11 +4,16 @@ ________________________________________________________________________________
 - Martial Arts
 - Arts
 - Photoshopping
+- Any phone, tablet & laptop repair
 - Shopping
 - Music
 - Exercise
 - Videogames
 - Social media
+- Correcting issues
+- Human rights
+- Nature
+- Fix problems
 - iOS coding
 - Security Researching 
 - iOS Exploits
