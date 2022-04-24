@@ -13,7 +13,7 @@ ________________________________________________________________________________
 - Correcting issues
 - Human rights
 - Nature
-- Fix problems
+- Fixing problems
 - iOS coding
 - Security Researching 
 - iOS Exploits
