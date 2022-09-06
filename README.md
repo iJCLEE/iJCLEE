@@ -4,16 +4,15 @@ ________________________________________________________________________________
 - Martial Arts
 - Arts
 - Photoshopping
+- Video editing
 - Any phone, tablet & laptop repair
+- Taking photos & videos
 - Shopping
 - Music
 - Exercise
 - Videogames
 - Social media
-- Correcting issues
-- Human rights
 - Nature
-- Fixing problems
 - iOS coding
 - Security Researching 
 - iOS Exploits
@@ -28,6 +27,22 @@ ________________________________________________________________________________
 - iOS Security Researching
 - iOS Exploits
 - Finding iOS Bugs etc...
+_____________________________________________________________________________________________________________________________
+🍱 Favourite food_>
+- Sushi
+- Fried chicken
+- Fries & burger
+- Any Fried food
+- Rice
+- Pork
+- Chicken
+_____________________________________________________________________________________________________________________________
+🥤 Favourite drink_>
+- Bubbletea / bobatea
+- Blended ice / slush
+- Milkshake
+- Lemonade
+- Choco
 _____________________________________________________________________________________________________________________________
 📫 How to reach me_>
 - Twitter | https://twitter.com/ijclee |
@@ -47,6 +62,7 @@ ________________________________________________________________________________
 - iDevice and Android device Software & Hardware Repair (since 2013)
 - Playing card throwing (since 2013)
 - Dance (since ****)
+- Photshopping (since 2015)
 - Worked as employer at iROOM - iPhone refurbish, re-sell, accessories sell, business & customer service (2017-2020)
 - Beginner of Beatboxing (since June of 2021)
 - Whipping (since August of 2021)
@@ -60,26 +76,28 @@ ________________________________________________________________________________
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
-- iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)
 _____________________________________________________________________________________________________________________________
 📴 My current testing devices_>
+- iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)
-- iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)
-- iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)
+- iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)
 - iPhone 6+, iOS 8.1 (TaiG - Untethered)
+- iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)
 - iPhone 5S, iOS 10.1.1 (Yalu - Semi-Untethered)
 - iPhone 5C, iOS 7.0.3 (Evasi0n7 - Untethered)
 - iPhone 5, iOS 10.3.3 (H3lix - Semi-Untethered)
 - iPhone 5, iOS 10.3.3 (H3lix - Semi-Untethered) - >Another iPhone 5<
-- iPhone 4, iOS 7.1.2 (Modified version of Pangu - Untethered by Unknown source)
 - iPhone 4S, iOS 9.3.5 (Phoenix - Semi-Untethered) 
 - iPhone 4S, iOS 9.0.3 (Unable to Jailbreak with - "Outdated" Untethered Pangu - 2021)
+- iPhone 4, iOS 7.1.2 (Modified version of Pangu - Untethered by Unknown source)
+- iPhone 3GS, iOS 6.1.6 (p0sixspwn - Untethered)
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)
 _____________________________________________________________________________________________________________________________
 🎮 Current most played videogames / Onlinegames_>
+- Outward
 - Valheim
 - League of Legends
 - Stardew Valley
