@@ -46,7 +46,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 📫 How to reach me_>
 - Twitter | https://twitter.com/ijclee |
-- Instagram | https://www.instagram.com/jclee1992/ |
 - TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
 > Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
