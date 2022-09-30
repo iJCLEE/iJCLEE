@@ -74,6 +74,7 @@ ________________________________________________________________________________
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)
+- iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)
