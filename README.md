@@ -6,6 +6,7 @@ ________________________________________________________________________________
 - Photoshopping
 - Video editing
 - Any phone, tablet & laptop repair
+- Any electronic device software & hardware testing
 - Taking photos & videos
 - Shopping
 - Music
