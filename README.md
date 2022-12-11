@@ -102,7 +102,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 📴 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
-- Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom rom installed)>_"White"
+- Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom Rom installed)>_"White"
 _____________________________________________________________________________________________________________________________
 🎮 Current most played videogames / Onlinegames_>
 - Outward
