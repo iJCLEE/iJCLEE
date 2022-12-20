@@ -46,8 +46,9 @@ ________________________________________________________________________________
 - Choco
 _____________________________________________________________________________________________________________________________
 📫 How to reach me_>
-- Twitter | https://twitter.com/ijclee |
-- TikTok | https://www.tiktok.com/@jclee1992?lang=fi-FI |
+- Youtube | https://www.youtube.com/@JCLEE1992
+- Twitter | https://twitter.com/ijclee 
+- TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
 > Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
 🎞 My current hobbies & work are_> 
