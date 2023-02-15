@@ -1,6 +1,6 @@
 # 👋 Hello, I’m_> JCLEE
 _____________________________________________________________________________________________________________________________
-👀 I’m interested in_>
+# 👀 I’m interested in_>
 - Martial Arts
 - Arts
 - Photoshopping
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - iOS Bugs
 - and so on...
 _____________________________________________________________________________________________________________________________
-🌱 I’m currently slowly learning_>
+# 🌱 I’m currently slowly learning_>
 - Freestyle Rap
 - Sing
 - Robotic dance
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 - iOS Exploits
 - Finding iOS Bugs etc...
 _____________________________________________________________________________________________________________________________
-🍱 Favourite food_>
+# 🍱 Favourite food_>
 - Sushi
 - Fried chicken
 - Fries & burger
@@ -38,20 +38,20 @@ ________________________________________________________________________________
 - Pork
 - Chicken
 _____________________________________________________________________________________________________________________________
-🥤 Favourite drink_>
+# 🥤 Favourite drink_>
 - Bubbletea / bobatea
 - Blended ice / slush
 - Milkshake
 - Lemonade
 - Choco
 _____________________________________________________________________________________________________________________________
-📫 How to reach me_>
+# 📫 How to reach me_>
 - Youtube | https://www.youtube.com/@JCLEE1992
 - Twitter | https://twitter.com/ijclee 
 - TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
 > Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
 _____________________________________________________________________________________________________________________________
-🎞 My current hobbies & work are_> 
+# 🎞 My current hobbies & work are_> 
 - VideoGames & OnlineGames (since 2005)
 - ITF Taekwondo (2004-2008)
 - Nunchaku (since 2008) 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 - Sing and vocal (coming soon...)
 - Robotic dance (coming someday...)
 _____________________________________________________________________________________________________________________________
-📱 My current main devices_> 
+# 📱 My current main devices_> 
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
@@ -82,7 +82,7 @@ ________________________________________________________________________________
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)>_"Matte_Black"
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
 _____________________________________________________________________________________________________________________________
-📴 My current testing devices (iOS)_>
+# 📴 My current testing devices (iOS)_>
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)>_"Space_Grey"
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered)>_"Rose_Gold"
 - iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)>_"Space_Grey"
@@ -101,11 +101,11 @@ ________________________________________________________________________________
 - iPhone 3GS, iOS 6.1.6 (p0sixspwn - Untethered)>_"Black"
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)>_"White"
 _____________________________________________________________________________________________________________________________
-📴 My current testing devices (Android)_>
+# 📴 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
 - Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom Rom installed)>_"White"
 _____________________________________________________________________________________________________________________________
-🎮 Current most played videogames / Onlinegames_>
+# 🎮 Current most played videogames / Onlinegames_>
 - Outward
 - Valheim
 - League of Legends
