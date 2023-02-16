@@ -88,8 +88,8 @@ ________________________________________________________________________________
 - iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)>_"Space_Grey"
 - iPhone SE 2016, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 6+, iOS 8.1 (TaiG - Untethered)>_"Space_Grey"
-- iPhone 6S+, iOS 13.5.1 (Not Jailbroken yet)>_"Silver"
-- iPhone 6S, iOS 13.1.3 (Not Jailbroken yet)>_"Space_Grey"
+- iPhone 6S+, iOS 13.5.1 (Unc0ver - Semi-Untethered)>_"Silver"
+- iPhone 6S, iOS 13.1.3 Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 6, iOS 11.0.3 (Electra - Semi-Untethered)>_"Silver"
 - iPhone 5S, iOS 10.1.1 (Yalu - Semi-Untethered)>_"Space_Grey"
 - iPhone 5C, iOS 7.0.3 (Evasi0n7 - Untethered)>_"Custom_Mirror_Red"
@@ -100,6 +100,7 @@ ________________________________________________________________________________
 - iPhone 4, iOS 7.1.2 (Modified version of Pangu - Untethered by Unknown source)>_"Custom_Black/White"
 - iPhone 3GS, iOS 6.1.6 (p0sixspwn - Untethered)>_"Black"
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)>_"White"
+- iPad 4, iOS 10.3.4 (Not Jailbroken yet)>_"White"
 _____________________________________________________________________________________________________________________________
 # 📴 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
