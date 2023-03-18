@@ -72,7 +72,7 @@ ________________________________________________________________________________
 - Sing and vocal (coming soon...)
 - Robotic dance (coming someday...)
 _____________________________________________________________________________________________________________________________
-# 📱 My current main devices_> 
+# 📱 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
@@ -81,7 +81,7 @@ ________________________________________________________________________________
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered - Testing only)>_"Rose_Gold"
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
 _____________________________________________________________________________________________________________________________
-# 📱 My current old main devices_> 
+# 📱 My current old main devices (iOS)_>
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)>_"Space_Grey"
 - iPhone 7, iOS 10.1.1 (Yalu_ExtraRecipe - Semi-Untethered)>_"Jet_Black"
 _____________________________________________________________________________________________________________________________
