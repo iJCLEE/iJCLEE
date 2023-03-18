@@ -72,7 +72,7 @@ ________________________________________________________________________________
 - Sing and vocal (coming soon...)
 - Robotic dance (coming someday...)
 _____________________________________________________________________________________________________________________________
-# 📱 My current main devices (iOS)_>
+# 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
@@ -81,11 +81,11 @@ ________________________________________________________________________________
 - iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered - Testing only)>_"Rose_Gold"
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
 _____________________________________________________________________________________________________________________________
-# 📱 My current old main devices (iOS)_>
+# 📴 My current old main devices (iOS)_>
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)>_"Space_Grey"
 - iPhone 7, iOS 10.1.1 (Yalu_ExtraRecipe - Semi-Untethered)>_"Jet_Black"
 _____________________________________________________________________________________________________________________________
-# 📴 My current testing devices (iOS)_>
+# 📳 My current testing devices (iOS)_>
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)>_"Space_Grey"
 - iPhone 7, iOS 15.6.1 (Not Jailbroken yet)>_"Jet_Black"
 - iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)>_"Space_Grey"
@@ -106,7 +106,7 @@ ________________________________________________________________________________
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)>_"White"
 - iPad 4, iOS 10.3.4 (Not Jailbroken yet)>_"White"
 _____________________________________________________________________________________________________________________________
-# 📴 My current testing devices (Android)_>
+# 📱 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
 - Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom Rom installed)>_"White"
 _____________________________________________________________________________________________________________________________
