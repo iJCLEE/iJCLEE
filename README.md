@@ -104,6 +104,7 @@ ________________________________________________________________________________
 - iPhone 4, iOS 7.1.2 (Modified version of Pangu - Untethered by Unknown source)>_"Custom_Black/White"
 - iPhone 3GS, iOS 6.1.6 (p0sixspwn - Untethered)>_"Black"
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)>_"White"
+- iPod touch 3G, iOS 3.1.3(Jailbreakme/star - Untethered)>_"Black"
 - iPad 4, iOS 10.3.4 (Not Jailbroken yet)>_"White"
 _____________________________________________________________________________________________________________________________
 # 📱 My current testing devices (Android)_>
