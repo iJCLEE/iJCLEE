@@ -1,76 +1,12 @@
 # 👋 Hello, I’m_> JCLEE
 _____________________________________________________________________________________________________________________________
-# 👀 I’m interested in_>
-- Martial Arts
-- Arts
-- Photoshopping
-- Video editing
-- Any phone, tablet & laptop repair
-- Any electronic device software & hardware testing
-- Taking photos & videos
-- Shopping
-- Music
-- Exercise
-- Videogames
-- Social media
-- Nature
-- iOS coding
-- Security Researching 
-- iOS Exploits
-- iOS Bugs
-- and so on...
-_____________________________________________________________________________________________________________________________
-# 🌱 I’m currently slowly learning_>
-- Freestyle Rap
-- Sing
-- Robotic dance
-- iOS coding
-- iOS Security Researching
-- iOS Exploits
-- Finding iOS Bugs etc...
-_____________________________________________________________________________________________________________________________
-# 🍱 Favourite food_>
-- Sushi
-- Fried chicken
-- Fries & burger
-- Any Fried food
-- Rice
-- Pork
-- Chicken
-_____________________________________________________________________________________________________________________________
-# 🥤 Favourite drink_>
-- Bubbletea / bobatea
-- Blended ice / slush
-- Milkshake
-- Lemonade
-- Choco
+
 _____________________________________________________________________________________________________________________________
 # 📫 How to reach me_>
 - Youtube | https://www.youtube.com/@JCLEE1992
 - Twitter | https://twitter.com/ijclee 
 - TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
-> Feel free to follow & message me, If you need any help in iOS/Android / Software/Repair / Nunchaku / Dance / Card throwing etc...
-_____________________________________________________________________________________________________________________________
-# 🎞 My current hobbies & work are_> 
-- VideoGames & OnlineGames (since 2005)
-- ITF Taekwondo (2004-2008)
-- Nunchaku (since 2008) 
-- Budo Taido (2008-2012)
-- Work as employee (since 2008)
-- iOS Jailbreaking (since 2009)
-- Android Rooting/CustomRom (since 2011)
-- Unions member > Employee rights co-op & supporter (since 2011)
-- Any electronic devices, phones, tablets, laptop hardware & software tester since (2011)
-- iDevice and Android device Software/Hardware Repair tester & Repair (since 2013)
-- Playing card throwing (since 2013)
-- Dance (since decade)
-- Photshopping (since 2015)
-- Worked as employer at iROOM - iPhone refurbish, re-sell, accessories sell, business & customer service (2017-2020)
-- Beginner of Beatboxing (since June of 2021)
-- Whipping (since August of 2021)
-- Freestyle rap (coming soon...)
-- Sing and vocal (coming soon...)
-- Robotic dance (coming someday...)
+> Feel free to follow & message me, If you need any help.
 _____________________________________________________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
@@ -110,12 +46,4 @@ ________________________________________________________________________________
 # 📱 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
 - Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom Rom installed)>_"White"
-_____________________________________________________________________________________________________________________________
-# 🎮 Current most played videogames / Onlinegames_>
-- Outward
-- Valheim
-- League of Legends
-- Stardew Valley
-- Minecraft
-- Oldschool Runescape
 _____________________________________________________________________________________________________________________________
