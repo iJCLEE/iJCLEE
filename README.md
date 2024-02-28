@@ -1,7 +1,6 @@
 # 👋 Hello, I’m_> JCLEE
 _____________________________________________________________________________________________________________________________
 # 📫 How to reach me_>
-- Youtube | https://www.youtube.com/@JCLEE1992
 - Twitter | https://twitter.com/ijclee 
 - TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
 > Feel free to follow & message me, If you need any help.
