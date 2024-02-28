@@ -1,7 +1,8 @@
 # 👋 Greetings! I’m_> JCLEE 
-./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.
-_____________________________________________________________________________________________________________________________
+**./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.**
 🔒 Cybersecurity Enthusiast & IT Specialist | 📸 Photo & 🎬 Video Editor | 📈 Marketing & Sales Maven | 📱 Mobile Phone Maestro | 🌱 Life Teacher
+_____________________________________________________________________________________________________________________________
+
 
 🛡️ Cybersecurity Champion: As an IT specialist with a passion for cybersecurity, I thrive on securing digital landscapes and ensuring a safe online environment. My expertise lies in identifying and mitigating cyber threats to safeguard digital assets.
 
