@@ -1,4 +1,5 @@
-# 👋 Greetings! I’m_> JCLEE ./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.
+# 👋 Greetings! I’m_> JCLEE 
+./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.
 _____________________________________________________________________________________________________________________________
 🔒 Cybersecurity Enthusiast & IT Specialist | 📸 Photo & 🎬 Video Editor | 📈 Marketing & Sales Maven | 📱 Mobile Phone Maestro | 🌱 Life Teacher
 
@@ -15,6 +16,7 @@ ________________________________________________________________________________
 Join me on this exciting journey where technology meets creativity, and together, we explore the limitless possibilities of the digital world. Let's connect, create, and grow!
 _____________________________________________________________________________________________________________________________
 # 📫 How to reach me_>
+- Reddit  | https://www.reddit.com/user/iJCLEE/
 - Twitter | https://twitter.com/ijclee 
 - TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
 > Feel free to follow & message me, If you need any help.
