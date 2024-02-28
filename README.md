@@ -1,9 +1,12 @@
 # 👋 Greetings! I’m_> JCLEE 
 **./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.**
 
-🔒 Cybersecurity Enthusiast & IT Specialist | 📸 Photo & 🎬 Video Editor | 📈 Marketing & Sales Maven | 📱 Mobile Phone Maestro | 🌱 Life Teacher
+🔒 Cybersecurity Enthusiast & IT Specialist
+📸 Photo & 🎬 Video Editor
+📈 Marketing & Sales Maven
+📱 Mobile Phone Maestro
+🌱 Life Teacher
 _____________________________________________________________________________________________________________________________
-
 
 🛡️ Cybersecurity Champion: As an IT specialist with a passion for cybersecurity, I thrive on securing digital landscapes and ensuring a safe online environment. My expertise lies in identifying and mitigating cyber threats to safeguard digital assets.
 
@@ -15,7 +18,7 @@ ________________________________________________________________________________
 
 🌱 Life Teacher: Embracing a holistic approach to life, I share my insights as a life teacher. I believe in continuous learning and personal growth, and I'm dedicated to helping others navigate the journey of self-discovery.
 
-Join me on this exciting journey where technology meets creativity, and together, we explore the limitless possibilities of the digital world. Let's connect, create, and grow!
+🤝 Join me on this exciting journey where technology meets creativity, and together, we explore the limitless possibilities of the digital world. Let's connect, create, and grow!
 _____________________________________________________________________________________________________________________________
 # 📫 How to reach me_>
 - Reddit  | https://www.reddit.com/user/iJCLEE/
