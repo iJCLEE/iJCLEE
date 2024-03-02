@@ -1,10 +1,10 @@
 # 👋 Greetings! I’m_> JCLEE 
 **./> Multifaceted individual with a diverse skill set that spans the realms of technology, creativity, and personal development.**
 
-🔒 Cybersecurity Enthusiast & IT Specialist 
-📸 Photo & 🎬 Video Editor 
-📈 Marketing & Sales Maven 
-📱 Mobile Phone Maestro 
+🔒 Cybersecurity Enthusiast & IT Specialist                                                                                                                                                                         
+📸 Photo & 🎬 Video Editor                                                                                                                                                                         
+📈 Marketing & Sales Maven                                                                                                                                                                         
+📱 Mobile Phone Maestro                                                                                                                                                                         
 🌱 Life Teacher
 _____________________________________________________________________________________________________________________________
 
