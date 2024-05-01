@@ -23,7 +23,6 @@ ________________________________________________________________________________
 # 📫 How to reach me_>
 - Reddit  | https://www.reddit.com/user/iJCLEE/
 - Twitter | https://twitter.com/ijclee 
-- TikTok  | https://www.tiktok.com/@jclee1992?lang=fi-FI 
 > Feel free to follow & message me, If you need any help.
 _____________________________________________________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
