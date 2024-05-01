@@ -1,5 +1,5 @@
-# 👋 Greetings! I’m_> JCLEE, welcome to my portfolio! 
-"Every app or project I share here is completely free of charge and is based on my studies, intended for educational purposes."
+# 👋 Greetings! I’m_> JCLEE
+"Every app or project I share here is completely free of charge and is based on my self-studies, intended for my portfolio."
 
 🔒 Cybersecurity Enthusiast & IT Specialist                                                                                                                                                                         
 📸 Photo & 🎬 Video Editor                                                                                                                                                                         
