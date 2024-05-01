@@ -1,5 +1,5 @@
 # 👋 Greetings! I’m_> JCLEE, welcome to my portfolio! 
-"Everything I share in here is completely free of charge"
+"Every app or project I share in here is completely free of charge"
 
 🔒 Cybersecurity Enthusiast & IT Specialist                                                                                                                                                                         
 📸 Photo & 🎬 Video Editor                                                                                                                                                                         
