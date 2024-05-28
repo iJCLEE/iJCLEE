@@ -30,8 +30,8 @@ ________________________________________________________________________________
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
-- iPhone 8, iOS 14.0.1 (Taurine - Semi-Untethered - Testing only)>_"Rose_Gold"
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
+- iP̶h̶o̶n̶e̶ ̶8̶,̶ ̶i̶O̶S̶ ̶1̶4̶.̶0̶.̶1̶ ̶(̶T̶a̶u̶r̶i̶n̶e̶ ̶-̶ ̶S̶e̶m̶i̶-̶U̶n̶t̶e̶t̶h̶e̶r̶e̶d̶ ̶-̶ ̶T̶e̶s̶t̶i̶n̶g̶ ̶o̶n̶l̶y̶)̶>̶_̶"̶R̶o̶s̶e̶_̶G̶o̶l̶d̶"
 _____________________________________________________________________________________________________________________________
 # 📴 My current old main devices (iOS)_>
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)>_"Space_Grey"
@@ -39,6 +39,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 # 📳 My current testing devices (iOS)_>
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)>_"Space_Grey"
+- iPhone 8, iOS 16.7.8 (Not Jailbroken yet)>_"Rose_Gold"
 - iPhone 7, iOS 15.6.1 (Not Jailbroken yet)>_"Jet_Black"
 - iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)>_"Space_Grey"
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)>_"Matte_Black"
