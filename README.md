@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
-- iP̶h̶o̶n̶e̶ ̶8̶,̶ ̶i̶O̶S̶ ̶1̶4̶.̶0̶.̶1̶ ̶(̶T̶a̶u̶r̶i̶n̶e̶ ̶-̶ ̶S̶e̶m̶i̶-̶U̶n̶t̶e̶t̶h̶e̶r̶e̶d̶ ̶-̶ ̶T̶e̶s̶t̶i̶n̶g̶ ̶o̶n̶l̶y̶)̶>̶_̶"̶R̶o̶s̶e̶_̶G̶o̶l̶d̶"
+- iP̷h̷o̷n̷e̷ ̷8̷,̷ ̷i̷O̷S̷ ̷1̷4̷.̷0̷.̷1̷ ̷(̷T̷a̷u̷r̷i̷n̷e̷ ̷-̷ ̷S̷e̷m̷i̷-̷U̷n̷t̷e̷t̷h̷e̷r̷e̷d̷ ̷-̷ ̷T̷e̷s̷t̷i̷n̷g̷ ̷o̷n̷l̷y̷)̷>̷_̷"̷R̷o̷s̷e̷_̷G̷o̷l̷d̷"̷
 _____________________________________________________________________________________________________________________________
 # 📴 My current old main devices (iOS)_>
 - iPhone X, iOS 11.1.1 (Electra - Semi-Untethered)>_"Space_Grey"
