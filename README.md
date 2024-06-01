@@ -28,7 +28,7 @@ ________________________________________________________________________________
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
-- iPhone SE(2020), iOS 16.3.1 (Dopamine - Semi-Untethered=>_"Product_Red"
+- iPhone SE(2020), iOS 16.3.1 (Dopamine - Semi-Untethered>_"Product_Red"
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
