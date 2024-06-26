@@ -1,10 +1,13 @@
 # 👋 Greetings! I’m_> JCLEE
 
-🔒 Cybersecurity Enthusiast & IT Specialist                                                                                                                                                                         
-📸 Photo & 🎬 Video Editor                                                                                                                                                                         
-📈 Marketing & Sales Maven                                                                                                                                                                         
-📱 Mobile Phone Maestro                                                                                                                                                                         
-🌱 Life Teacher
+🔒 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 & 𝙄𝙏 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩 
+🖥️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲, 𝗔𝗽𝗽𝘀, 𝗮𝗻𝗱 𝗚𝗮𝗺𝗲 𝗧𝗲𝘀𝘁𝗲𝗿
+💻 𝗢𝗦 𝗧𝗲𝘀𝘁𝗲𝗿
+🔍 Researcher
+📸 𝙋𝙝𝙤𝙩𝙤 & 🎬 𝙑𝙞𝙙𝙚𝙤 𝙀𝙙𝙞𝙩𝙤𝙧 
+📈 𝙈𝙖𝙧𝙠𝙚𝙩𝙞𝙣𝙜 & 𝙎𝙖𝙡𝙚𝙨 𝙈𝙖𝙫𝙚𝙣 
+📱 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙝𝙤𝙣𝙚 𝙈𝙖𝙚𝙨𝙩𝙧𝙤 
+🌱 𝙇𝙞𝙛𝙚 𝙏𝙚𝙖𝙘𝙝𝙚𝙧
 _____________________________________________________________________________________________________________________________
 
 🛡️ Cybersecurity Champion: As an IT specialist with a passion for cybersecurity, I thrive on securing digital landscapes and ensuring a safe online environment. My expertise lies in identifying and mitigating cyber threats to safeguard digital assets.
@@ -12,6 +15,8 @@ ________________________________________________________________________________
 🖥️ Software, Apps, and Game Tester: With a meticulous approach, I rigorously test software, applications, and games to ensure they meet the highest standards of functionality and user experience. I identify bugs, suggest improvements, and enhance the overall quality of digital products.
 
 💻 Operating System Tester: Specialized in evaluating operating systems, I perform comprehensive testing to assess performance, security, and usability. My goal is to ensure seamless operation and optimal user satisfaction across diverse computing environments.
+
+🔍 Researcher: Driven by curiosity and a desire for knowledge, I delve into extensive research across various domains. I analyze data, uncover trends, and provide insights that drive informed decision-making and innovation.
 
 🎨 Visual Maestro: With a keen eye for aesthetics, I delve into the world of photo and video editing, transforming ideas into captivating visual experiences. I believe in the power of visual storytelling to convey messages that resonate.
 
