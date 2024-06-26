@@ -9,6 +9,10 @@ ________________________________________________________________________________
 
 🛡️ Cybersecurity Champion: As an IT specialist with a passion for cybersecurity, I thrive on securing digital landscapes and ensuring a safe online environment. My expertise lies in identifying and mitigating cyber threats to safeguard digital assets.
 
+🖥️ Software, Apps, and Game Tester: With a meticulous approach, I rigorously test software, applications, and games to ensure they meet the highest standards of functionality and user experience. I identify bugs, suggest improvements, and enhance the overall quality of digital products.
+
+💻 Operating System Tester: Specialized in evaluating operating systems, I perform comprehensive testing to assess performance, security, and usability. My goal is to ensure seamless operation and optimal user satisfaction across diverse computing environments.
+
 🎨 Visual Maestro: With a keen eye for aesthetics, I delve into the world of photo and video editing, transforming ideas into captivating visual experiences. I believe in the power of visual storytelling to convey messages that resonate.
 
 💼 Marketing & Sales Savvy: Armed with a strategic mindset, I navigate the dynamic world of marketing and sales. I understand the pulse of the market and craft effective strategies that drive results. Connecting with people and building lasting relationships is at the core of my approach.
