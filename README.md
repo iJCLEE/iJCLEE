@@ -37,7 +37,7 @@ ________________________________________________________________________________
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
-- iPhone SE(2020), iOS 16.3.1 (Dopamine - Semi-Untethered>_"Product_Red"
+- iPhone SE(2020), iOS 16.3.1 (Dopamine/rootless - Semi-Untethered>_"Product_Red"
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
 - iPhone 8, iOS 13.4.1 (Non-Jailbroken - Bank account usage only)>_"Space_Grey"
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 - iPhone 3GS, iOS 6.1.6 (p0sixspwn - Untethered)>_"Black"
 - iPad 3, iOS 6.1 (Evasi0n - Untethered)>_"White"
 - iPod touch 3G, iOS 3.1.3 (Jailbreakme/star - Untethered)>_"Black"
-- iPad 4, iOS 10.3.4 (Not Jailbroken yet)>_"White"
+- iPad 4, iOS 10.3.4 > Downgraded to iOS 8.4.1 (Included Jailbreak - Untethered)>_"White"
 _____________________________________________________________________________________________________________________________
 # 📱 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
