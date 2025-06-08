@@ -38,11 +38,6 @@ ________________________________________________________________________________
 ./> Where technology and creativity meet, we explore the limitless possibilities of the digital world. 
 Let's connect, create, and grow together!
 _____________________________________________________________________________________________________________________________
-# 📫 How to reach me_>
-- Reddit  | https://www.reddit.com/user/iJCLEE/
-- Twitter | https://twitter.com/ijclee 
-> Feel free to follow & message me, If you need any help.
-_____________________________________________________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
