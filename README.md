@@ -41,7 +41,7 @@ ________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
-- iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
+- R.I.P iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey" - Storage full > Bootloop > Updated to iOS 18.3 
 - iPhone SE(2020), iOS 16.3.1 (Dopamine/rootless - Semi-Untethered>_"Product_Red"
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
