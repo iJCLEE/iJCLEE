@@ -1,42 +1,6 @@
 # 👋 Greetings! <br> I’m_> JCLEE
 
-🔒 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 & 𝙄𝙏 𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩                  
-🖥️ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲, 𝗔𝗽𝗽𝘀, 𝗮𝗻𝗱 𝗚𝗮𝗺𝗲 𝗧𝗲𝘀𝘁𝗲𝗿                     
-💻 𝗢𝗦 𝗧𝗲𝘀𝘁𝗲𝗿                       
-🔍 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿                       
-📸 𝙋𝙝𝙤𝙩𝙤 & 🎬 𝙑𝙞𝙙𝙚𝙤 𝙀𝙙𝙞𝙩𝙤𝙧                        
-📈 𝙈𝙖𝙧𝙠𝙚𝙩𝙞𝙣𝙜 & 𝙎𝙖𝙡𝙚𝙨 𝙈𝙖𝙫𝙚𝙣                        
-📱 𝙈𝙤𝙗𝙞𝙡𝙚 𝙋𝙝𝙤𝙣𝙚 𝙈𝙖𝙚𝙨𝙩𝙧𝙤                        
-🌱 𝙇𝙞𝙛𝙚 𝙏𝙚𝙖𝙘𝙝𝙚𝙧                       
-_____________________________________________________________________________________________________________________________
-
-🛡️ <b>Cybersecurity Champion</b><br>
-./> As an IT specialist with a passion for cybersecurity, I thrive on securing digital landscapes and ensuring a safe online environment. My expertise lies in identifying and mitigating cyber threats to safeguard digital assets.
-
-🖥️ <b>Software, Apps, and Game Tester</b><br>
-./> With a meticulous approach, I rigorously test software, applications, and games to ensure they meet the highest standards of functionality and user experience. I identify bugs, suggest improvements, and enhance the overall quality of digital products.
-
-💻 <b>Operating System Tester</b><br>
-./> Specialized in evaluating operating systems, I perform comprehensive testing to assess performance, security, and usability. My goal is to ensure seamless operation and optimal user satisfaction across diverse computing environments.
-
-🔍 <b>Researcher</b><br>
-./> Driven by curiosity and a desire for knowledge, I delve into extensive research across various domains. I analyze data, uncover trends, and provide insights that drive informed decision-making and innovation.
-
-📸🎬 <b>Visual Maestro</b><br>
-./> With a keen eye for aesthetics, I delve into the world of photo and video editing, transforming ideas into captivating visual experiences. I believe in the power of visual storytelling to convey messages that resonate.
-
-💼 <b>Marketing & Sales Savvy</b><br>
-./> Armed with a strategic mindset, I navigate the dynamic world of marketing and sales. I understand the pulse of the market and craft effective strategies that drive results. Connecting with people and building lasting relationships is at the core of my approach.
-
-🔧 <b>Mobile Phone Wizard</b><br>
-./> Beyond the digital realm, I'm a skilled mobile phone repairer. Whether it's fixing glitches or reviving a seemingly lifeless device, I take pride in bringing technology back to life.
-
-🌱 <b>Life Teacher</b><br>
-./> Embracing a holistic approach to life, I share my insights as a life teacher. I believe in continuous learning and personal growth, and I'm dedicated to helping others navigate the journey of self-discovery.
-
-🤝 <b>Join me on this exciting journey</b><br>
-./> Where technology and creativity meet, we explore the limitless possibilities of the digital world. 
-Let's connect, create, and grow together!
+./> More information about me, please visit my website: www.jclee.fi > About
 _____________________________________________________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
