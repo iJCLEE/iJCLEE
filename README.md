@@ -42,4 +42,5 @@ ________________________________________________________________________________
 # 📱 My current testing devices (Android)_>
 - Honor 8, OS 7.0 - EMUI 5.0.3 (Bootloader unlocked - Rooted)>_"Blue"
 - Samsung Tab 3, OS 5.0 (Bootloader unlocked - Rooted - Lineage Custom Rom installed)>_"White"
+- Samsung Galaxy A51, OS 10 - One UI 2.5 (Bootloader unlocked)>_"Cyan"
 _____________________________________________________________________________________________________________________________
