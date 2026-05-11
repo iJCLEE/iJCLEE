@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # 📲 My current main devices (iOS)_>
 - iPhone 12 Pro, iOS 14.1 (Unc0ver - Semi-Untethered)>_"Graphite"
 - iPhone XS Max, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey"
-- R.I.P iPhone XS, iOS 14.2 (Unc0ver - Semi-Untethered)>_"Space_Grey" - Storage full > Bootloop > Updated to iOS 18.7.3 
+- iPhone XS, "R.I.P iOS 14.2" (Unc0ver - Semi-Untethered)>_"Space_Grey" | Storage full > Bootloop > iOS 18.7.3 (Non-Jailbroken)
 - iPhone SE(2020), iOS 16.3.1 (Dopamine/rootless - Semi-Untethered>_"Product_Red"
 - iPhone 8+, iOS 14.3 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 8+, iOS 14.6 (Checkra1n + Ra1npock - Semi-Tethered)>_"Silver" 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - iPhone X, iOS 11.2.6 (Electra - Semi-Untethered)>_"Space_Grey"
 - iPhone 8, iOS 16.7.8 (Not Jailbroken yet)>_"Rose_Gold"
 - iPhone 7, iOS 15.6.1 (Not Jailbroken yet)>_"Jet_Black"
-- iPhone 7, iOS 13.7 (Non-Jailbroken - Bank account & Gaming usage only)>_"Space_Grey"
+- iPhone 7, iOS 13.7 (Unc0ver - Semi-Untethered)>_"Matte_Black"
 - iPhone 7, iOS 12.4 (Unc0ver - Semi-Untethered)>_"Matte_Black"
 - iPhone SE(2016), iOS 14.1 (Unc0ver - Semi-Untethered)>_"Space_Grey"
 - iPhone 6+, iOS 8.1 (TaiG - Untethered)>_"Space_Grey"
